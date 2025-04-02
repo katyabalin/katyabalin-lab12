@@ -1,0 +1,66 @@
+*   commit b8d414d375465035dc8e88358506e1a570ec9aa5 (HEAD -> main, origin/main, origin/HEAD)
+|\  Merge: a6b907c d04a7db
+| | Author: katyabalin <katya.balin@gmail.com>
+| | Date:   Wed Apr 2 11:58:29 2025 -0400
+| | 
+| |     fixed the merge conflict in test.rb
+| | 
+| * commit d04a7dbf10ad4ae5564f2e1a3f598c5ff14ef8f6 (testing)
+| | Author: katyabalin <katya.balin@gmail.com>
+| | Date:   Wed Apr 2 11:55:23 2025 -0400
+| | 
+| |     edited test.rb in the testing branch
+| | 
+* | commit a6b907c85678b235adcfcabb2f8f1d7d7d6fb75e
+|/  Author: katyabalin <katya.balin@gmail.com>
+|   Date:   Wed Apr 2 11:56:03 2025 -0400
+|   
+|       edited test.rb on the main branch
+| 
+* commit aa86123213c44cfcc563c681ed5510903c49f806
+| Author: katyabalin <katya.balin@gmail.com>
+| Date:   Wed Apr 2 11:34:34 2025 -0400
+| 
+|     Update index.html
+| 
+* commit b68e6bbbf12686c28dcc7eaf3bc1614a3291543c
+| Author: katyabalin <katya.balin@gmail.com>
+| Date:   Wed Apr 2 11:33:35 2025 -0400
+| 
+|     Update LICENSE
+| 
+* commit 531054b544e82948a3602018b9e3de8cdb733a91
+| Author: katyabalin <katya.balin@gmail.com>
+| Date:   Wed Apr 2 11:33:27 2025 -0400
+| 
+|     Update test.rb
+| 
+* commit 5a7741ff4a59f9703e7f62e2088470c4f672024d
+| Author: katyabalin <katya.balin@gmail.com>
+| Date:   Wed Apr 2 11:30:07 2025 -0400
+| 
+|     Update README
+| 
+* commit 5d863759896e2bcc19d123ca2eed0ddad53bcd4e
+| Author: katyabalin <katya.balin@gmail.com>
+| Date:   Wed Apr 2 11:27:20 2025 -0400
+| 
+|     Create index.html
+| 
+* commit 8deb6c47cb3e6340903d0c85cf5da3764737bc6a
+| Author: katyabalin <katya.balin@gmail.com>
+| Date:   Wed Apr 2 11:27:08 2025 -0400
+| 
+|     Create LICENSE
+| 
+* commit 95ea789bc6f34f95fa512e3c511a440b9856dbff
+| Author: katyabalin <katya.balin@gmail.com>
+| Date:   Wed Apr 2 11:26:58 2025 -0400
+| 
+|     Create test.rb
+| 
+* commit c2b333d98b56789c43bccdc3cec853b8902e99f5
+  Author: katyabalin <katya.balin@gmail.com>
+  Date:   Wed Apr 2 11:26:47 2025 -0400
+  
+      Create README
